@@ -1,5 +1,5 @@
 # hello-world
-just another repository
+
 hey fellas!
 
 i'd love to talk about the new so called iPhone Xs
